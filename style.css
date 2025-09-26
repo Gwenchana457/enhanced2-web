@@ -1,0 +1,111 @@
+@import url(https://fonts.google.com/specimen/Fredoka?categoryFilters=Sans+Serif:%2FSans%2FGeometric);
+
+.image-container {
+  text-align: center;
+}
+
+h1 {
+ color: white;
+ text-shadow: 2px 2px 5px #000000;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+  color: white;  
+  text-shadow: 2px 2px 5px black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+  color: white;
+  text-shadow: 2px 2px black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4 {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img {
+  width: 50px;
+  height: 50px;
+}
+.link1 {
+  color: white;
+  text-decoration: none;
+  margin: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+:hover.link1 {
+  color: black;
+  cursor: pointer;
+  text-decoration-line: overline underline;
+}
+
+.link2 {
+  color: white;
+  text-decoration: none;
+  margin: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+:hover.link2 {
+  color: black;
+  cursor: pointer;
+  text-decoration-line: overline underline;
+}
+
+.link3 {
+  color: white;
+  text-decoration: none;
+  margin: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #B87333;
+}
+
+:hover.link3 {
+  color: black;
+  cursor: pointer;
+  text-decoration-line: overline underline;
+}
+
+.my-element {
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  outline-style: double; color: beige; 
+  padding: 20px;
+  border-style: double;
+}
+
+p {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: white;
+ text-align: justify;
+}
+
+.contact {
+  text-decoration: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.contact2 {
+width: 50px;
+height: 50px;
+margin-right: 10px;
+}
+.contact3 {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
+
+:hover.contact {
+  color: black;
+  cursor: pointer;
+  text-decoration-line: overline underline;
+}
